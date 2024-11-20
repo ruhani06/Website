@@ -1,0 +1,30 @@
+header{
+    box-sizing: border-box;
+    margin-left:12px;
+    margin-right:12px;
+    font-size:30px ;
+    margin-top: 1px;
+    padding-bottom: 10px;
+    background-color:  #7a5f1e;
+    color: white;
+    text-align :center;
+    font-family:'Times New Roman', Times, serif;
+    ;
+   
+}
+.content {
+    max-width: 950px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+
+    
+}
+.p{
+    margin-left: 390px;
+    margin-top: -350px;
+    font-size: 20px;
+}
